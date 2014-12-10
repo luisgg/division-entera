@@ -10,6 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
+        
         <?php
         $dividendo_text = $_REQUEST["dividendo"];
         $divisor_text = $_REQUEST["divisor"];
